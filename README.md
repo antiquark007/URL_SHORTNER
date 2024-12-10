@@ -1,7 +1,17 @@
-# URL_SHORTNER
+# **URL Shortener**
 
-## In order to initialise the application, you need to run the following command in your terminal:
-bash git init "https://github.com/antiquark007/URL_SHORTNER.git"
+A simple URL shortening service built with **Express.js**, **MongoDB**, and **Mongoose**.
+
+---
+
+## **Setup Instructions**
+
+### **Clone the Repository**
+
+Run the following command in your terminal to clone the repository:
+
+```bash
+git clone https://github.com/antiquark007/URL_SHORTNER.git
 
 ### This is the dependency needed to install and inorder to use this project
  npm init
