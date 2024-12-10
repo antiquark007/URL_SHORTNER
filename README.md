@@ -8,7 +8,7 @@ A simple URL shortening service built with **Express.js**, **MongoDB**, and **Mo
 
 ### **Clone the Repository**
 
-Run the following command in your terminal to clone the repository:
+Run the following command in your terminal to clone the repository and run:
 
 ```bash
 git clone https://github.com/antiquark007/URL_SHORTNER.git
