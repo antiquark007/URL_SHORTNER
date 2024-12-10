@@ -13,12 +13,12 @@ Run the following command in your terminal to clone the repository and run:
 ```bash
 git clone https://github.com/antiquark007/URL_SHORTNER.git
 
-### This is the dependency needed to install and inorder to use this project
+This is the dependency needed to install and inorder to use this project
  npm init
  npm i express mongoose
  npm i --save-dev nodemon
 
- #### Make sure that you have installed the above dependencies and  change package.json folder and to run the server use the following command
+ Make sure that you have installed the above dependencies and  change package.json folder and to run the server use the following command
  npm run devStart
 
- #### Once it is done you can use the following API to shorten the URL
+ Once it is done you can use the following API to shorten the URL
