@@ -21,4 +21,4 @@ This is the dependency needed to install and inorder to use this project
  Make sure that you have installed the above dependencies and  change package.json folder and to run the server use the following command
  npm run devStart
 
- Once it is done you can use the following API to shorten the URL
+Once it is done you can use the following API to shorten the URL
